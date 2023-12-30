@@ -1,5 +1,5 @@
 ```python
-  @article{ham2020kornli,
+@article{ham2020kornli,
   title={KorNLI and KorSTS: New Benchmark Datasets for Korean Natural Language Understanding},
   author={Ham, Jiyeon and Choe, Yo Joong and Park, Kyubyong and Choi, Ilji and Soh, Hyungjoon},
   journal={arXiv preprint arXiv:2004.03289},
